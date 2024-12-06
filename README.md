@@ -89,5 +89,3 @@ This is automated web testing for any web application. Its using page object mod
   ```
 
 5. See the output of tests result in the result folder then open `log.html` or `report.html` using your browser
-
-
