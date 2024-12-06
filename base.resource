@@ -35,7 +35,7 @@ Verify ToDo Item ${item_name} Not Exists
 Press ENTER
 
     ${ITEM}                          Set Variable     xpath=//*[@class="new-todo-list"]
-    Press Keys                       ${ITEM}    '\ue006'
+    Press Keys                       ${ITEM}    \ue006
 
 Finish Suite
 
